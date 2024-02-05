@@ -23,6 +23,7 @@ Acreditamos em um mundo onde a coexistência entre humanos e abelhas nativas con
 
 - Acesse nosso Canal no YouTube [YouTube](https://www.youtube.com/@MyHoneyBee_BR).
 - Acesse nossa página no [LinkedIn](https://www.linkedin.com/company/myhoneybee/).
+- Acesse nossp site: [MyHoneyBee](https://www.myhoneybee.com.br/).
 
 ## Fatos Divertidos 🍿
 
