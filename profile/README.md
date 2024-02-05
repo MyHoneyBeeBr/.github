@@ -36,7 +36,7 @@ Convidamos você a se juntar à nossa comunidade. Siga-nos nas redes sociais, pa
 
 ## Lembre-se 🧙
 
-Com o poder do [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), você pode criar maravilhas. Documente suas jornadas, compartilhe suas histórias e inspire outros a fazerem o mesmo.
+Tudo começou com a submissão do projeto no [CENTELHA](https://mt2.programacentelha.com.br/es1/empresa/myhoneybee).
 
 ## ✒️ Desenvolvedores
 
