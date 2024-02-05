@@ -38,6 +38,11 @@ Convidamos você a se juntar à nossa comunidade. Siga-nos nas redes sociais, pa
 
 Com o poder do [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), você pode criar maravilhas. Documente suas jornadas, compartilhe suas histórias e inspire outros a fazerem o mesmo.
 
+## ✒️ Desenvolvedores
+
+* **Lucas Sperotto** - *Projeto e Desenvolvimento* - [Sperotto](https://github.com/Lucas-Sperotto)
+* **Marcos Adriano** - *Desenvolvimento* - [MarcosAS3](https://github.com/MarcosAS3)
+
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
