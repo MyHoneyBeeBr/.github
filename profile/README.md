@@ -36,7 +36,7 @@ Convidamos você a se juntar à nossa comunidade. Siga-nos nas redes sociais, pa
 
 ## Lembre-se 🧙
 
-Tudo começou com a submissão do projeto no [CENTELHA](https://mt2.programacentelha.com.br/es1/empresa/myhoneybee).
+Tudo começou com a submissão do [projeto](https://mt2.programacentelha.com.br/es1/empresa/myhoneybee) no [CENTELHA MT](https://programacentelha.com.br/mt/).
 
 ## ✒️ Desenvolvedores
 
