@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
+🙋‍♀️ A MyHoneyBee é uma empresa comprometida em promover a criação consciente de abelhas nativas e sem ferrão em ambientes urbanos e rurais. Nossa missão é difundir a cultura da meliponicultura de forma sustentável, fornecendo produtos e serviços que facilitam o manejo responsável dessas abelhas, garantindo o monitoramento, a preservação e o equilíbrio dos ecossistemas. Estamos empenhados em compartilhar conhecimento e oferecer soluções inovadoras, como o nosso ninho inteligente e o software de monitoramento, para que mais pessoas possam desfrutar dos benefícios e encantos da criação de abelhas nativas e sem ferrão, contribuindo para a conservação da biodiversidade. Junte-se a nós nessa jornada de preservação, descoberta e manejo consciente das maravilhas da natureza, além de aproveitar os benefícios do mel produzido, que é reconhecido por suas propriedades benéficas para a saúde.
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
