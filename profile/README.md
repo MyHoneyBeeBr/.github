@@ -21,7 +21,8 @@ Acreditamos em um mundo onde a coexistência entre humanos e abelhas nativas con
 
 ## Recursos Úteis 👩‍💻
 
-Descubra mais sobre nossos produtos, serviços e práticas sustentáveis em nossa [página de recursos](LINK PARA A PÁGINA DE RECURSOS). Aqui, você pode acessar nossos documentos, estudos de caso e tutoriais.
+Acesse nosso Canal no YouTube [YouTube](https://www.youtube.com/@MyHoneyBee_BR).
+Acesse nossa página no [LinkedIn](https://www.linkedin.com/company/myhoneybee/).
 
 ## Fatos Divertidos 🍿
 
