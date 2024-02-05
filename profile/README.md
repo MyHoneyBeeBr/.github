@@ -36,6 +36,15 @@ Convidamos você a se juntar à nossa comunidade. Siga-nos nas redes sociais, pa
 
 Com o poder do [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), você pode criar maravilhas. Documente suas jornadas, compartilhe suas histórias e inspire outros a fazerem o mesmo.
 
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Convide alguém da equipe para uma cerveja 🍺;
+* Um agradecimento ao programa [CENTELHA MT](https://programacentelha.com.br/mt/) pelo financiamento 🫂;
+* Um agradecimento a [FAPEMAT](https://www.fapemat.mt.gov.br/) pelo repasse financeiro e controle do projeto 🫂;
+* Um agradecimento a [UNEMAT-Alto Araguaia](https://altoaraguaia.unemat.br/) pelo apoio 🫂;
+* Um agradecimento ao [CRIAR](https://www.facebook.com/CRIAR.UNEMAT/) pela bolsa de Extensão Universitária do [MarcosAS3](https://github.com/MarcosAS3) para o desenvolvimento das versoes [V0.1](https://github.com/Lucas-Sperotto/MyHoneyBee/tree/46cc2330a1580a9d14191c85ae288e15b59b767f/V0.1), [V1.0](https://github.com/Lucas-Sperotto/MyHoneyBee/tree/46cc2330a1580a9d14191c85ae288e15b59b767f/V1.0) e [V2.0](https://github.com/Lucas-Sperotto/MyHoneyBee/tree/46cc2330a1580a9d14191c85ae288e15b59b767f/V2.0) do Protótipo do sistema [MyHoneyBee](https://github.com/Lucas-Sperotto/MyHoneyBee) publico e licenciado pela Licença [GNU v3.0](https://github.com/Lucas-Sperotto/MyHoneyBee/blob/46cc2330a1580a9d14191c85ae288e15b59b767f/LICENSE.md). 🫂;
+
 ---
 
 © 2024 MyHoneyBee - Unidos pela Natureza.
