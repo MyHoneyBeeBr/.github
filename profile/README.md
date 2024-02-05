@@ -27,8 +27,8 @@ Acreditamos em um mundo onde a coexistência entre humanos e abelhas nativas con
 
 ## Fatos Divertidos 🍿
 
-- Nosso time começa o dia com um café da manhã energético, muitas vezes adoçado com o mel que nossas próprias abelhas produzem!
-- Além de sermos apaixonados por abelhas, nossa equipe tem uma variedade de hobbies, desde jardinagem até fotografia de natureza.
+- Nosso time começa o dia com um café da manhã energético, muitas vezes adoçado com o mel que nossas próprias abelhas nativas produzem!
+- Além de sermos apaixonados por abelhasnativas e sem ferrão, nossa equipe tem uma variedade de hobbies, desde jardinagem até fotografia de natureza.
 
 ## Participe da Nossa Comunidade! 🤝
 
